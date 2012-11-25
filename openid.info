@@ -1,0 +1,7 @@
+;Information
+version = 1
+name = "OpenID"
+description = "Provides OpenID authentication engine."
+
+;Define rights
+rights['admin.openid.config'] = 'Allows configurating the OpenID settings.'
